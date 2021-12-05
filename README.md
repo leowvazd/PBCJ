@@ -1,6 +1,7 @@
 # Unity-Games
 
-In this repository there are 4 games, made using Unity and C#:
+In this repository there are 4 games, made using Unity and C#, for the UFABC (Federal University of ABC) 
+Game Component Based Programming course:
 
   1. Hangman Game;
   2. Memory Game;
