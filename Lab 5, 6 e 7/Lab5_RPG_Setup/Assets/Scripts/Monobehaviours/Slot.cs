@@ -1,0 +1,9 @@
+using UnityEngine;
+using UnityEngine.UI;
+
+public class Slot : MonoBehaviour
+{
+    
+    public Text qtdTexto;                   // armazena qtd de texto
+       
+}

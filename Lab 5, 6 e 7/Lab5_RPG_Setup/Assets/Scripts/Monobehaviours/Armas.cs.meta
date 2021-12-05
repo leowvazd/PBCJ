@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd33791a71c507a42a36fcaf68d5ad8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - municaoPrefab: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - audioClip: {fileID: 8300000, guid: f1f365c599d0cfd47a8ca9c5d4030907, type: 3}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
