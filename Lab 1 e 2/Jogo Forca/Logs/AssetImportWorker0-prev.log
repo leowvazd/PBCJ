@@ -1,0 +1,104 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1237; Version 2009; 64bit' Language: 'pt' Physical Memory: 10116 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/vazle/Documents/GitHub/PCBJ---Jogo-da-Forca/Jogo Forca
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60731
+Successfully changed project path to: C:/Users/vazle/Documents/GitHub/PCBJ---Jogo-da-Forca/Jogo Forca
+C:/Users/vazle/Documents/GitHub/PCBJ---Jogo-da-Forca/Jogo Forca
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 90.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/vazle/Documents/GitHub/PCBJ---Jogo-da-Forca/Jogo Forca/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     5058 MB
+    Driver:   26.20.14046.3
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003554 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 70.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.003 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 257.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.539 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2082 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2516.
+Total: 3.755600 ms (FindLiveObjects: 0.264200 ms CreateObjectMapping: 0.072400 ms MarkObjects: 3.213300 ms  DeleteObjects: 0.203400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(726d15857f6ff1c4d89d7fef1f3c782d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(726d15857f6ff1c4d89d7fef1f3c782d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2cbfcd5f51841eda4cec23e8f9247ac') in 0.043013 seconds
+  Import took 0.048818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(9b413e0441c778c42878343412dcc89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(9b413e0441c778c42878343412dcc89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33f3ea144f7b180c56ecfdb92325b45') in 0.003990 seconds
+  Import took 0.009311 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.0 MB.
+System memory in use after: 52.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2516.
+Total: 4.684200 ms (FindLiveObjects: 0.397200 ms CreateObjectMapping: 0.111400 ms MarkObjects: 4.002600 ms  DeleteObjects: 0.171400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.431257 seconds.
+  path: Assets/Scripts/ManageBotoes.cs
+  artifactKey: Guid(66b71b14625fb4c4180f9e2ac3b0d8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ManageBotoes.cs using Guid(66b71b14625fb4c4180f9e2ac3b0d8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce9499320b0d8106d84d776fbd7bc5c') in 0.005065 seconds
+  Import took 0.011052 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
